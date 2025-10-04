@@ -85,7 +85,5 @@ See `GenAI Job Simulation.pdf` for verification.
 ## 📬 Contact
 
 **John Jerry Gordon-Mensah**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+Connect with me on [LinkedIn](www.linkedin.com/in/jayejaye)  
 Explore more projects on [GitHub](https://github.com/Gordon-Mensah)
-
-```
